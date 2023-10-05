@@ -1,7 +1,7 @@
 
 # HOSTED
 
-Link:-  https://charanreddy404-contact-list.netlify.app/
+Link:-  https://651e88e9c403cd0093f19363--taupe-kleicha-19d025.netlify.app/
 
 
 # Getting Started with Create React App
